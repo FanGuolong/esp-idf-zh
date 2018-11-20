@@ -33,7 +33,7 @@
 
 * 在出现的扩展列表中，选择 "Cygwin GCC"，然后点击 Finish。
 
-*Note: 你可能会在 UI 上面看到警告“Cygwin GCC Toolchain could not be found”。没关系，我们将会重新配置 Eclipse，让其能够找打工具链。
+*Note: 你可能会在 UI 上面看到警告“Cygwin GCC Toolchain could not be found”。没关系，我们将会重新配置 Eclipse，让其能够找到工具链。
 
 工程属性
 ------------------
